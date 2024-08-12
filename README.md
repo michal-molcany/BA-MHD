@@ -1,1 +1,3 @@
-# BA MHD
+# Bratislavska MHD for Home Assistant
+
+## Installation
