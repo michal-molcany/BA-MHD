@@ -7,5 +7,5 @@
   "iot_class": "cloud_polling",
   "name": "Bratislavska MHD",
   "requirements": [],
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
